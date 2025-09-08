@@ -39,7 +39,7 @@ This dashboard is designed for **travelers, environmental analysts, and city pla
 ### 🖼️ Static Preview  
 ![Weather Dashboard](https://github.com/prajaktaukirde/Weather-Dashboard/blob/main/Weather%20Dashboard.png)  
 
-### 🔗 Live Interactive Dashboard  | Click-
+### 🔗 Live Interactive Dashboard  ( Click on dashboard)
 [![Weather Dashboard](https://github.com/prajaktaukirde/Weather-Dashboard/blob/main/Weather%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiODI1OGYzZjItODNjZS00ZTIwLTkxY2MtYjZkMDU3YjQ4YTdiIiwidCI6IjM4NGM2ZDhkLTYzN2ItNDUyZi05ZTA4LTkxODZlNzJiMTM2NyJ9)  
 
 ---
